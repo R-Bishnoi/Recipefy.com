@@ -1,0 +1,6 @@
+{
+    "git.enabled": false,
+    "git.enableStatusBarSync": true,
+    "git.ignoreLimitWarning": true,
+    "git.decorations.enabled": true
+}
