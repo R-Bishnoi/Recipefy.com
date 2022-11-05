@@ -8,7 +8,7 @@ In the project directory, yo
 
 https://user-images.githubusercontent.com/99094650/200117607-be3fb222-2ff5-4dd4-aa59-d64186a568d0.mp4
 
-u can run:
+
 
 ### `npm start`
 
